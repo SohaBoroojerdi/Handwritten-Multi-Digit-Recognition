@@ -1,3 +1,10 @@
+###################################################################################
+# This is a Python code for Handwritten Multi Digit Recognition With Machine
+# Learning created by Soha Boroojerdi in Utah Valley University.
+# For more info please see: 
+# https://github.com/SohaBoroojerdi/Handwritten-Multi-Digit-Recognition
+###################################################################################
+
 import numpy as np
 import matplotlib.pyplot as pt
 import pandas as pd
