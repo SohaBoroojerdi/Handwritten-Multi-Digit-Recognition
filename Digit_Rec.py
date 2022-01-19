@@ -2,7 +2,7 @@
 # This is a Python code for Handwritten Multi Digit Recognition With Machine
 # Learning created by Soha Boroojerdi in Utah Valley University.
 # For more info please see: 
-# https://github.com/SohaBoroojerdi/Handwritten-Multi-Digit-Recognition
+# https://github.com/SohaBoroojerdi/Handwritten-Multi-Digit-Recognition/tree/master
 ###################################################################################
 
 import numpy as np
